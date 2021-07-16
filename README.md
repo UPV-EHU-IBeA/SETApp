@@ -1,5 +1,6 @@
 # Sea-Urchin-Classification
-Sea urchin classification toolbox/app built by A.M Iker
+Sea urchin classification toolbox/app built by A.M Iker. IBeA (Ikerkuntza eta Berrikuntza Analitikoa) research group, University of the Basque Country (UPV-EHU) & PiE. www.ehu.eus/es/web/ibea/
 
-To start the Sea Urchin App double click on SeaUrchinApp.mlapp. Then, select the folder containing Egg, Control and Samples and Press Measure. In the classification tap, just 
-press the Classify bottom (must have selected the folders and pressed measure before classifiying).
+iker.alvarez@ehu.eus
+
+SeaUrchinApp_mcr.exe includes the installation of MATLAB Runtime that enables the execution of compiled MATLAB Apps. 
