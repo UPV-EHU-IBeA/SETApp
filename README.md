@@ -1,5 +1,5 @@
 # Sea-Urchin-Classification
-Sea urchin classification toolbox/app built by A.M Iker. IBeA (Ikerkuntza eta Berrikuntza Analitikoa) research group, University of the Basque Country (UPV-EHU) & PiE. www.ehu.eus/es/web/ibea/
+Sea urchin classification toolbox/app built by Iker Alvarez at IBeA (Ikerkuntza eta Berrikuntza Analitikoa) research group, University of the Basque Country (UPV-EHU) & PiE. www.ehu.eus/es/web/ibea/
 
 iker.alvarez@ehu.eus
 
