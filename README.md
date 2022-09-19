@@ -5,7 +5,7 @@ iker.alvarez@ehu.eus
 
 SeaUrchinApp_mcr.exe includes the installation of MATLAB Runtime that enables the execution of compiled MATLAB Apps. 
 
-Source code for the paper: Novel Application of Machine Learning and Image Analysis to Automate the Sea Urchin Embryo Test: Implementation in Effect-Directed Analysis. Environmental Science & Technology. DOI: 
+Source code for the paper: SETApp: A machine learning and image analysis based application to automate the sea urchin embryo test. DOI: 10.1016/j.ecoenv.2022.113728
 
 # ABSTRACT
 
